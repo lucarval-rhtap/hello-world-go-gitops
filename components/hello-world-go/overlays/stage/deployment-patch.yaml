@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-appstudio/dance-bootstrap-app:latest
+      - image: quay.io/lucarval-rhtap/hellow-world-go:eda29c576bb295108c4212e5e55c1a09a2b02c12@sha256:852dade67e8af66fb5227b7cd21034c7abe068828838c9380e33c05fa04a0c2a
         name: container-image  
