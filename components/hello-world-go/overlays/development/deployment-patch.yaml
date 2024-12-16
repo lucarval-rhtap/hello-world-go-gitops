@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/lucarval-rhtap/hellow-world-go:f2467b76af5c0877762561e4279c4aa8696f0c8d@sha256:2caef673a20cb962b9b002875138ddd46c25dddd1702908bb843c2075ffbe77b
+        - image: quay.io/lucarval-rhtap/hellow-world-go:eda29c576bb295108c4212e5e55c1a09a2b02c12@sha256:852dade67e8af66fb5227b7cd21034c7abe068828838c9380e33c05fa04a0c2a
           name: container-image
